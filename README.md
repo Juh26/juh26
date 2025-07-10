@@ -1,9 +1,4 @@
 
-Olá!Eu sou a juh26
-
-🖥️ Atualmente cursando TI pelo instituto senai 
-
-😄 Pronouns: ela/dela
 
 <h1 align="center">👩‍💻 Olá, eu sou a Juh! 🚀</h1>
 
