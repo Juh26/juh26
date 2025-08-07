@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👩‍💻 Olá, eu sou a Juh! 🚀</h1>
+<h1 align="center">👩🏻‍💻 Olá, eu sou a Juh! 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="gif-coding">
