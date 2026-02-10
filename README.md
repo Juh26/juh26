@@ -26,10 +26,13 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 
+- JavaScript
+- Git & GitHub
+- Banco de Dados
+- React
+- HTML
+  
 
-- `JavaScript`
-- `Git & GitHub`
-- `Pensamento Lógico`
 
 ---
 
